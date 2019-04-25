@@ -1,0 +1,78 @@
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.deps.json
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.runtimeconfig.json
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.runtimeconfig.dev.json
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.dll
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.RazorAssemblyInfo.cache
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.RazorAssemblyInfo.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.TagHelpers.input.cache
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.TagHelpers.output.cache
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.RazorCoreGenerate.cache
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.RazorTargetAssemblyInfo.cache
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.RazorTargetAssemblyInfo.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.pdb
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.Views.dll
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.Views.pdb
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.Views.pdb
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.dll
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.pdb
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.csproj.CopyComplete
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutBonCoin.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Annonces\Index.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Utilisateurs\Login.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Depot.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Annonces\Depot.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Annonces\AddCategorie.g.cshtml.cs
+C:\Users\Administrateur\source\repos\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Annonces\ListeCategories.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.deps.json
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.runtimeconfig.json
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.runtimeconfig.dev.json
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.dll
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.pdb
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.Views.dll
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\bin\Debug\netcoreapp2.1\FauxBonCoin.Views.pdb
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.csprojAssemblyReference.cache
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.RazorAssemblyInfo.cache
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.RazorAssemblyInfo.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.AssemblyInfo.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.TagHelpers.input.cache
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.TagHelpers.output.cache
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.RazorCoreGenerate.cache
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Annonces\AddCategorie.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Annonces\Depot.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Annonces\Index.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Annonces\ListeCategories.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Depot.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutBonCoin.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\Utilisateurs\Login.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.RazorTargetAssemblyInfo.cache
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.RazorTargetAssemblyInfo.cs
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.Views.pdb
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.dll
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.pdb
+C:\Users\Administrateur\Downloads\FauxBonCoin (5)\FauxBonCoin\FauxBonCoin\obj\Debug\netcoreapp2.1\FauxBonCoin.csproj.CopyComplete
